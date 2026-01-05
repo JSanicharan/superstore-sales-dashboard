@@ -57,21 +57,6 @@ The goal of this project is to showcase practical data analytics skills and the 
 
 ---
 
-## Project Structure
-
-SuperstoreDashboard/
-│
-├── data/
-│ └── Sample - Superstore.csv
-│
-├── data_cleaning.py # Data loading, cleaning, and feature engineering
-├── dashboard.py # Streamlit dashboard application
-├── requirements.txt # Project dependencies
-├── .gitignore
-└── README.md
-
----
-
 ## Installation & Setup
 
 1. Clone the repository:
